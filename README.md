@@ -1,5 +1,5 @@
 # SCG - FutureForce
-
+Due to corporate policy, the source code cannot be disclosed. However, here is an overview of my contributions to the project
 
 SCG - FutureForce is a **SmartFactory** project designed to optimize supply chain management and production scheduling. This platform minimizes human error and enhances efficiency through automation and data-driven decision-making.
 
